@@ -1,4 +1,4 @@
-# AutoMEE Search Widget
+# AI Search Widget
 
 A modern, embeddable AI chat widget powered by OpenAI's Assistant API. Add an intelligent search interface to your website with just a few lines of code.
 
